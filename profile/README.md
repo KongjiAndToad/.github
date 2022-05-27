@@ -16,6 +16,10 @@
 [glow-tts-사용법](https://colab.research.google.com/drive/1nJUW0TpNG79rDFSD22d3B4bgWqsLsf0-?usp=sharing)
 ![](https://user-images.githubusercontent.com/81242672/170463326-bcb1c5b5-31c6-4a0a-8704-5266d4149ac2.png)
 
+### 기계번역
+- ipynb 파일로 확인해보실 수 있습니다.</br>
+- [기계 번역 학습](https://colab.research.google.com/drive/1ZjaHI_acLfmJZXpOXiwpxFdJpQ2CmGDK?usp=sharing)
+
 ## Repository
 ### 🗂 toad-server
 `Django`를 사용한 API 서버 Repository
