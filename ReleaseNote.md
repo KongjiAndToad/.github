@@ -7,9 +7,9 @@
 |![minju](https://github.com/MINJU-KIMmm.png)|![cheun](https://github.com/lcheun.png)|![sj](https://github.com/offsujin.png)|![jh](https://github.com/jh-jin.png)|
 |BackEnd, TTS, 팀장|FrontEnd, 기계번역|BackEnd, TTS|FrontEnd|
 
-## Link
+## Service Link
 ### [🍊🍊🍊🍊🍊](http://kongji-front.s3-website.ap-northeast-2.amazonaws.com/)
-귤을 눌러보세요.
+귤을 눌러보세요. 코소롱 서비스를 이용해볼 수 있습니다.
 
 ## How to use
 ### 1. 오디오북 생성
