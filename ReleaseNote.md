@@ -1,4 +1,4 @@
-# 소멸위기에 처한 사투리 보전을 위한 제주어 오디오북, 코소롱
+# 코소롱 
 ![](https://user-images.githubusercontent.com/81242672/169936577-7bc4d24a-53e0-4615-a019-9ef060b8946f.png)
 
 ## Developers
