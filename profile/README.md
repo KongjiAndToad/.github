@@ -5,7 +5,7 @@
 - 언어학적으로 중요한 의미를 지니는 제주어를 보전할 필요성을 알리고 제주어에 대한 흥미를 고취
 
 ## Awards
-이화여자대학교 2022학년도 1학기 졸업프로젝트 우수상
+이화여자대학교 컴퓨터공학전공 2022학년도 1학기 졸업프로젝트 우수상
 
 ## Developers
 |[김민주](https://github.com/MINJU-KIMmm)|[이채은](https://github.com/lcheun)|[정수진](https://github.com/offsujin)|[진정현](https://github.com/jh-jin)|
