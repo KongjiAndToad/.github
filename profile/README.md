@@ -11,7 +11,7 @@
 |[김민주](https://github.com/MINJU-KIMmm)|[이채은](https://github.com/lcheun)|[정수진](https://github.com/offsujin)|[진정현](https://github.com/jh-jin)|
 |---|---|---|---|
 |![minju](https://github.com/MINJU-KIMmm.png)|![cheun](https://github.com/lcheun.png)|![sj](https://github.com/offsujin.png)|![jh](https://github.com/jh-jin.png)|
-|BackEnd, TTS, 팀장|FrontEnd, 기계번역|BackEnd, TTS|FrontEnd|
+|BackEnd, TTS, 팀장|기계번역|BackEnd, TTS|FrontEnd|
 
 ## How to use
 ### 음성합성
